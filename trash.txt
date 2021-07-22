@@ -1,0 +1,7 @@
+ls -a -l
+make
+cd ..
+cd Clash
+cd test
+path /usr/bin /bin /home/judsen/Code/Clash/test
+exit
